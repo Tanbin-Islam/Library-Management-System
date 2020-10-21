@@ -1,0 +1,55 @@
+F:\Windows Form\Project\Library_Management\Library_Management\bin\Debug\Library_Management.exe.config
+F:\Windows Form\Project\Library_Management\Library_Management\bin\Debug\Library_Management.exe
+F:\Windows Form\Project\Library_Management\Library_Management\bin\Debug\Library_Management.pdb
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.csprojAssemblyReference.cache
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.index.resources
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.Properties.Resources.resources
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.cache
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.exe
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+F:\Windows Form\Project\Library_Management\Library_Management\bin\Debug\Library.mdf
+F:\Windows Form\Project\Library_Management\Library_Management\bin\Debug\Library_log.ldf
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.Books.resources
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.DashBoard.resources
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.Login.resources
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.Members.resources
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.Registration.resources
+F:\Windows Form\Project\Library_Management\Library_Management\obj\Debug\Library_Management.Transaction.resources
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\Library.mdf
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\Library_log.ldf
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\Library_Management.exe.config
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\Library_Management.exe
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\Library_Management.pdb
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.csprojAssemblyReference.cache
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.Books.resources
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.DashBoard.resources
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.index.resources
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.Login.resources
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.Members.resources
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.Properties.Resources.resources
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.Registration.resources
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.Transaction.resources
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.cache
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.exe
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\AxShockwaveFlashObjects.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.Shared.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\ShockwaveFlashObjects.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\stdole.dll
+G:\01_TANBIN\Library_Management\Library_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.BooksRptViewer.resources
+G:\01_TANBIN\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CopyComplete
